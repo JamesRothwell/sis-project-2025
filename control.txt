@@ -6,3 +6,8 @@ James does description, Tea does one argument, and alvaro does the other. We sta
 James finished his description, moving on to finding something to use as a hyperlink
 Alvaro finished writing his argument and moved it to ´index.html´. Working on extra edits, and other details
 Tea helped both write text/brainstorm
+
+15.20
+Alvaro finished his work, mostly.
+Tea finished her argument, has to spellcheck and review functionality.
+James searched hyperlink options, and inserted it into html

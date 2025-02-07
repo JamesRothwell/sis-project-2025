@@ -9,5 +9,6 @@ Tea helped both write text/brainstorm
 
 15.20
 Alvaro finished his work, mostly.
-Tea finished her argument, has to spellcheck and review functionality.
-James searched hyperlink options, and inserted it into html
+Tea finished her argument, has to spellcheck and review text flow.
+James searched hyperlink options, and inserted it into HTML.
+  + Upload Website @ ~3.35pm
